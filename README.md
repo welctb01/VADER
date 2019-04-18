@@ -18,7 +18,5 @@ Another effective strategy was to travel in a pair with a leading platoon and a 
 
 Files:
 Vader.zip - source code (Java);
-
 Vader.jar - executable jar file to run the simulator;
-
 screenshot.png - sceenshot of the simulator
