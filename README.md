@@ -20,3 +20,7 @@ Files:
 Vader.zip - source code (Java)  
 Vader.jar - executable jar file to run the simulator  
 screenshot.png - sceenshot of the simulator
+
+[[https://github.com/welctb01/VADER/blob/master/screenshot.PNG]]
+
+![alt text](https://raw.githubusercontent.com/welctb01/VADER/blob/master/screenshot.png)
