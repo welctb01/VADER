@@ -15,3 +15,8 @@ You have three platoons to move to the safe zone.  All three platoons will start
 Lessons Learned:
 The most effective strategy observed was to travel along the edges to the safe zone.  The battlefield (grid) needs more tiles around (north and west) the platoon starting locations and around (south and east) the safe zone.  With the current setup (origin at top-leftmost tile and safe zone at bottom-rightmost tile) following the edges is the most effective strategy.  Adding additional tiles will discourage the user from traveling out of the way to get to an edge making the simulator more realistic.  
 Another effective strategy was to travel in a pair with a leading platoon and a trailing platoon at least five tiles behind.  The platoons will only travel south and west.  Once the leading platoon had a detection the trailing platoon will branch off going south if the leader was going west and vice versa.  Once the platoon branched off they become the leader and the other platoon backtracks to the branch to follow the leader.  This continues until the two platoons reach the safe zone.  Once the two platoons are safe the third platoon travels their path to the safe zone.  If there were more than three platoons each subsequent platoon will follow this path.
+
+Files:
+Vader.zip - source code (Java)
+Vader.jar - executable jar file to run the simulator
+screenshot.png - sceenshot of the simulator
