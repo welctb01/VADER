@@ -17,7 +17,7 @@ The most effective strategy observed was to travel along the edges to the safe z
 Another effective strategy was to travel in a pair with a leading platoon and a trailing platoon at least five tiles behind.  The platoons will only travel south and west.  Once the leading platoon had a detection the trailing platoon will branch off going south if the leader was going west and vice versa.  Once the platoon branched off they become the leader and the other platoon backtracks to the branch to follow the leader.  This continues until the two platoons reach the safe zone.  Once the two platoons are safe the third platoon travels their path to the safe zone.  If there were more than three platoons each subsequent platoon will follow this path.
 
 Files:
-Vader.zip - source code (Java)
+\nVader.zip - source code (Java)
 
 Vader.jar - executable jar file to run the simulator
 
